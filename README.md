@@ -2,6 +2,7 @@
 # musiciansPost
 
 Database Project 2 for GWU Coding Bootcamp  
+![Product Logo](./images/loginProto.PNG)
 
 ## License
 ![GitHub](https://img.shields.io/github/license/WRXjasonSTI/musiciansPost)  
