@@ -2,7 +2,11 @@
 # musiciansPost
 
 Database Project 2 for GWU Coding Bootcamp  
-![Product Logo](./images/loginProto.PNG)
+![login](./images/loginProto.PNG)  
+![new](./images/newPostProto.PNG)  
+![home](./images/homeProto.PNG)  
+![card template](./images/cardProto.PNG)  
+![post page](./images/postPageProto.PNG)  
 
 ## License
 ![GitHub](https://img.shields.io/github/license/WRXjasonSTI/musiciansPost)  
@@ -15,7 +19,7 @@ MIT License
 * [License](#License)  
 * [Contributing](#Contributing)  
 * [Tests](#Contributing)  
-* [Questions and Contact](#Questions and Contact)  
+* [Contact](#Contact)  
 
 ## Installation
 ```bash
@@ -33,12 +37,12 @@ Jason Sam Brandon S
 
 testing to be done as project moves along 
 
-## Questions and Contact
-For any questions and suggestions, please feel free to contact me at the following platforms:
+## Contact
+For any questions and suggestions, please feel free to contact us here:
 * GitHub: WRXjasonSTI 
 * Email: jasoncruz_rocks@yahoo.com 
 
 ##
 MIT License 
-Copyright WRXjasonSTI
+Copyright WRXjasonSTI longhike bperez94
     
