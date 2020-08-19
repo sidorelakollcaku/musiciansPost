@@ -1,0 +1,21 @@
+.feed {
+    text-align: center;
+}
+
+.feed-card {
+    display: inline-block;
+    margin-bottom: 5px;
+    width: 100%;
+}
+
+.post-card {
+
+}
+
+.post-stamp {
+    text-align: center;
+}
+
+.post-timestamp {
+    display: inline-block;
+}
