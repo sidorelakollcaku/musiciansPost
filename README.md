@@ -1,10 +1,16 @@
 
-# musiciansPost
+# musiciansPost  
+![logo](./images/logo.png)  
+Musician's Post is a social media platform that allows musicians to find other musicians with similar tastes with the purpose of meeting up locally to practice and perform. Users will have a profile tailored by their favorite music genres, instruments played, and location by zip code. Users will also have access to a news feed that is influenced by their saved zip code to make meeting up easier.  The application is built utilizes HTML, CSS, JavaScript, Node, Nodemon, Sequelize, Handlebars, and Jest.
 
-Database Project 2 for GWU Coding Bootcamp  
+## Concept  
+Login Page:  
 ![login](./images/loginProto.PNG)  
+New Post Interface:  
 ![new](./images/newPostProto.PNG)  
+Home News Feed:  
 ![home](./images/homeProto.PNG)  
+Post:
 ![card template](./images/cardProto.PNG)  
 ![post page](./images/postPageProto.PNG)  
 
